@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently My Portfolio<br>👯 I’m looking for Mern-Stack Internship <br>🤝 I’m looking for help with<br>🌱 I’m currently learning about nextjs and Typescript<br>💬 Ask me about:Tv Series And Coding<br>⚡ Fun fact: In Tech Everytime you finished learning something, there is something more
+🔭 I’m currently My Portfolio<br>👯 I’m looking for Mern-Stack Internship <br>🤝 I’m looking for help with Open Source Work<br>🌱 I’m currently learning about nextjs and Typescript<br>💬 Ask me about:Tv Series And Coding<br>⚡ Fun fact: In Tech Everytime you finished learning something, there is something more
 
 ## 🌐 Socials:
 
